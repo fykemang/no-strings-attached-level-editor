@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/fykemang/no-strings-attached-level-editor/static/css/main.02eb22b3.chunk.css",
-    "main.js": "/fykemang/no-strings-attached-level-editor/static/js/main.0bac0cb4.chunk.js",
-    "main.js.map": "/fykemang/no-strings-attached-level-editor/static/js/main.0bac0cb4.chunk.js.map",
-    "runtime-main.js": "/fykemang/no-strings-attached-level-editor/static/js/runtime-main.f5090b43.js",
-    "runtime-main.js.map": "/fykemang/no-strings-attached-level-editor/static/js/runtime-main.f5090b43.js.map",
-    "static/js/2.8b9bf419.chunk.js": "/fykemang/no-strings-attached-level-editor/static/js/2.8b9bf419.chunk.js",
-    "static/js/2.8b9bf419.chunk.js.map": "/fykemang/no-strings-attached-level-editor/static/js/2.8b9bf419.chunk.js.map",
-    "index.html": "/fykemang/no-strings-attached-level-editor/index.html",
-    "precache-manifest.79dde70c92afe018db870c912b4d3ac9.js": "/fykemang/no-strings-attached-level-editor/precache-manifest.79dde70c92afe018db870c912b4d3ac9.js",
-    "service-worker.js": "/fykemang/no-strings-attached-level-editor/service-worker.js",
-    "static/css/main.02eb22b3.chunk.css.map": "/fykemang/no-strings-attached-level-editor/static/css/main.02eb22b3.chunk.css.map",
-    "static/js/2.8b9bf419.chunk.js.LICENSE.txt": "/fykemang/no-strings-attached-level-editor/static/js/2.8b9bf419.chunk.js.LICENSE.txt",
-    "static/media/exit.png": "/fykemang/no-strings-attached-level-editor/static/media/exit.b0bab22e.png",
-    "static/media/npc.png": "/fykemang/no-strings-attached-level-editor/static/media/npc.01a11946.png",
-    "static/media/player.png": "/fykemang/no-strings-attached-level-editor/static/media/player.3667947c.png",
-    "static/media/skein.png": "/fykemang/no-strings-attached-level-editor/static/media/skein.e97c012a.png"
+    "main.css": "/no-strings-attached-level-editor/static/css/main.02eb22b3.chunk.css",
+    "main.js": "/no-strings-attached-level-editor/static/js/main.0bac0cb4.chunk.js",
+    "main.js.map": "/no-strings-attached-level-editor/static/js/main.0bac0cb4.chunk.js.map",
+    "runtime-main.js": "/no-strings-attached-level-editor/static/js/runtime-main.d205f989.js",
+    "runtime-main.js.map": "/no-strings-attached-level-editor/static/js/runtime-main.d205f989.js.map",
+    "static/js/2.1d7644b0.chunk.js": "/no-strings-attached-level-editor/static/js/2.1d7644b0.chunk.js",
+    "static/js/2.1d7644b0.chunk.js.map": "/no-strings-attached-level-editor/static/js/2.1d7644b0.chunk.js.map",
+    "index.html": "/no-strings-attached-level-editor/index.html",
+    "precache-manifest.3f0026ae844c4557986cf190b79f6bfa.js": "/no-strings-attached-level-editor/precache-manifest.3f0026ae844c4557986cf190b79f6bfa.js",
+    "service-worker.js": "/no-strings-attached-level-editor/service-worker.js",
+    "static/css/main.02eb22b3.chunk.css.map": "/no-strings-attached-level-editor/static/css/main.02eb22b3.chunk.css.map",
+    "static/js/2.1d7644b0.chunk.js.LICENSE.txt": "/no-strings-attached-level-editor/static/js/2.1d7644b0.chunk.js.LICENSE.txt",
+    "static/media/exit.png": "/no-strings-attached-level-editor/static/media/exit.b0bab22e.png",
+    "static/media/npc.png": "/no-strings-attached-level-editor/static/media/npc.01a11946.png",
+    "static/media/player.png": "/no-strings-attached-level-editor/static/media/player.3667947c.png",
+    "static/media/skein.png": "/no-strings-attached-level-editor/static/media/skein.e97c012a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f5090b43.js",
-    "static/js/2.8b9bf419.chunk.js",
+    "static/js/runtime-main.d205f989.js",
+    "static/js/2.1d7644b0.chunk.js",
     "static/css/main.02eb22b3.chunk.css",
     "static/js/main.0bac0cb4.chunk.js"
   ]
