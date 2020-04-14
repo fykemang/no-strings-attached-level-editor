@@ -7,7 +7,7 @@ class App extends Component {
   render() {
     return (
       <>
-        <Router>
+        <Router basename="/no-strings-attached-level-editor">
           <NavigationBar />
             <Switch>
               <Route exact path="/" component={Home} />
